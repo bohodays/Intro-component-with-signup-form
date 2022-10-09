@@ -1,1 +1,1 @@
-# Intro-component-with-signup-form
+# Intro component with sign up form
